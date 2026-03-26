@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato tipo="entrante">
+        <nombre>Ensalada César</nombre>
+        <precio>8.50</precio>
+        <descrip>Ensalada fresca con pollo y aderezo César.</descrip>
+        <calorias>250</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada><![CDATA[<i class="fa-solid fa-cloud-meatball"></i>]]></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/Caesar.jpg</img>
+    </plato>
+    <plato tipo="principal">
+        <nombre>Filete de Salmón</nombre>
+        <precio>15.00</precio>
+        <descrip>Salmón a la parrilla con salsa de limón.</descrip>
+        <calorias>300</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/salmon.avif</img>
+    </plato>
+    <plato tipo="principal">
+        <nombre>Pasta al Pesto</nombre>
+        <precio>12.00</precio>
+        <descrip>Pasta fresca con salsa pesto casera.</descrip>
+        <calorias>450</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/pasta.jpg</img>
+    </plato>
+    <plato tipo="postre">
+        <nombre>Tarta de Chocolate</nombre>
+        <precio>5.00</precio>
+        <descrip>Deliciosa tarta de chocolate con crema.</descrip>
+        <calorias>400</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce><![CDATA[<i class="fa-solid fa-candy-cane"></i>]]></dulce>
+        </caracteristicas>
+        <img>./img/tarta.jpg</img>
+    </plato>
+    <plato tipo="entrante">
+        <nombre>Bruschetta</nombre>
+        <precio>6.00</precio>
+        <descrip>Rebanadas de pan con tomate y albahaca.</descrip>
+        <calorias>200</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada><![CDATA[<i class="fa-solid fa-cloud-meatball"></i>]]></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/brusche.jpg</img>
+    </plato>
+    <plato tipo="principal">
+        <nombre>Pizza Margherita</nombre>
+        <precio>10.00</precio>
+        <descrip>Pizza clásica con tomate y mozzarella.</descrip>
+        <calorias>600</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/pizza.jpg</img>
+    </plato>
+    <plato tipo="postre">
+        <nombre>Helado de Vainilla</nombre>
+        <precio>4.00</precio>
+        <descrip>Helado cremoso de vainilla.</descrip>
+        <calorias>250</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce><![CDATA[<i class="fa-solid fa-cloud-meatball"></i>]]></dulce>
+        </caracteristicas>
+        <img>./img/helado.avif</img>
+    </plato>
+    <plato tipo="entrante">
+        <nombre>Sopa de Tomate</nombre>
+        <precio>7.00</precio>
+        <descrip>Sopa caliente de tomate con albahaca.</descrip>
+        <calorias>150</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada><![CDATA[<i class="fa-solid fa-cloud-meatball"></i>]]></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/tomato-soup-with-basil-and-pesto.jpg</img>
+    </plato>
+    <plato tipo="principal">
+        <nombre>Pollo al Curry</nombre>
+        <precio>14.00</precio>
+        <descrip>Pollo cocinado en una salsa de curry.</descrip>
+        <calorias>500</calorias>
+        <caracteristicas>
+            <picante><![CDATA[<i class="fa-solid fa-pepper-hot"></i>]]></picante>
+            <salada></salada>
+            <dulce><![CDATA[<i class="fa-solid fa-candy-cane"></i>]]></dulce>
+        </caracteristicas>
+        <img>./img/Pollo-al-curry_1200x800.jpg</img>
+    </plato>
+    <plato tipo="postre">
+        <nombre>Flan de Caramelo</nombre>
+        <precio>5.50</precio>
+        <descrip>Dulce flan con salsa de caramelo.</descrip>
+        <calorias>300</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce><![CDATA[<i class="fa-solid fa-candy-cane"></i>]]></dulce>
+        </caracteristicas>
+        <img>./img/flan.jpg</img>
+    </plato>
+    <plato tipo="entrante">
+        <nombre>Gambas al Ajillo</nombre>
+        <precio>9.00</precio>
+        <descrip>Gambas salteadas con ajo y perejil.</descrip>
+        <calorias>350</calorias>
+        <caracteristicas>
+            <picante><![CDATA[<i class="fa-solid fa-pepper-hot"></i>]]></picante>
+            <salada></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/gambas-al-ajillo.jpg</img>
+    </plato>
+    <plato tipo="principal">
+        <nombre>Risotto de Setas</nombre>
+        <precio>13.00</precio>
+        <descrip>Risotto cremoso con setas frescas.</descrip>
+        <calorias>400</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/risotto-setas-1-2-scaled.jpg</img>
+    </plato>
+    <plato tipo="postre">
+        <nombre>Cheesecake</nombre>
+        <precio>6.50</precio>
+        <descrip>Deliciosa cheesecake con frutos rojos.</descrip>
+        <calorias>350</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce><![CDATA[<i class="fa-solid fa-candy-cane"></i>]]></dulce>
+        </caracteristicas>
+        <img>./img/chees.jpg</img>
+    </plato>
+    <plato tipo="entrante">
+        <nombre>Hummus</nombre>
+        <precio>5.00</precio>
+        <descrip>Pasta de garbanzos con pita.</descrip>
+        <calorias>200</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada><![CDATA[<i class="fa-solid fa-cloud-meatball"></i>]]></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/hummus-de-garbanzos-f1-500x500.jpg</img>
+    </plato>
+    <plato tipo="principal">
+        <nombre>Carne Asada</nombre>
+        <precio>18.00</precio>
+        <descrip>Carne asada con chimichurri.</descrip>
+        <calorias>600</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/carne.jpeg</img>
+    </plato>
+    <plato tipo="postre">
+        <nombre>Brownie con Nueces</nombre>
+        <precio>5.00</precio>
+        <descrip>Brownie de chocolate con nueces.</descrip>
+        <calorias>450</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce><![CDATA[<i class="fa-solid fa-candy-cane"></i>]]></dulce>
+        </caracteristicas>
+        <img>./img/20121219181634_1054.jpg</img>
+    </plato>
+    <plato tipo="entrante">
+        <nombre>Aguacate Relleno</nombre>
+        <precio>7.50</precio>
+        <descrip>Aguacate relleno de ensalada de atún.</descrip>
+        <calorias>300</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada><![CDATA[<i class="fa-solid fa-cloud-meatball"></i>]]></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/aguacates-rellenos.jpg</img>
+    </plato>
+    <plato tipo="principal">
+        <nombre>Fajitas de Pollo</nombre>
+        <precio>14.50</precio>
+        <descrip>Fajitas de pollo con pimientos y cebolla.</descrip>
+        <calorias>550</calorias>
+        <caracteristicas>
+            <picante><![CDATA[<i class="fa-solid fa-pepper-hot"></i>]]></picante>
+            <salada></salada>
+            <dulce></dulce>
+        </caracteristicas>
+        <img>./img/fajitas_pollo.webp</img>
+    </plato>
+    <plato tipo="postre">
+        <nombre>Panna Cotta</nombre>
+        <precio>6.00</precio>
+        <descrip>Dulce italiano de crema y vainilla.</descrip>
+        <calorias>300</calorias>
+        <caracteristicas>
+            <picante></picante>
+            <salada></salada>
+            <dulce><![CDATA[<i class="fa-solid fa-candy-cane"></i>]]></dulce>
+        </caracteristicas>
+        <img>./img/panna-cotta-vegana_1200x800.jpg</img>
+    </plato>
+</menu>
